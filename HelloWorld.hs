@@ -2,4 +2,4 @@
 -- stack --install-ghc runghc
 
 main :: IO ()
-main = putStrLn "My Hello World"
+main = putStrLn "Hello World"
